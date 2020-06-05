@@ -2,7 +2,7 @@
 
 $desktopPath = [Environment]::GetFolderPath("Desktop")
 
-$restartBatch=
+$restartBatch =
 @"
 echo Press any key to restart.
 pause > nul
