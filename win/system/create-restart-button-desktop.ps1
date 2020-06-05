@@ -1,4 +1,4 @@
-# Description: Create restart.bat on the Desktop of current user.
+# Description: Create restart.bat on the Desktop of the current user.
 
 $desktopPath = [Environment]::GetFolderPath("Desktop")
 
